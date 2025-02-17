@@ -49,7 +49,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 
 🚀 **[BudgetMentor](https://github.com/your-github/BudgetMentor)** – AI-powered financial advisor using **MERN Stack + Google Gemini**  
 📱 **[Pixel Remover](https://github.com/your-github/Pixel-Remover)** – Web app for de-pixelating images using **Flask & TensorFlow**  
-📝 **[Quiz App](https://github.com/your-github/Quiz-App)** – Interactive quiz platform with **React & Node.js**  
+📝 **[Quiz Master App](https://github.com/your-github/Quiz-App)** – Interactive quiz platform with **React & Node.js**  
 
 ---
 
