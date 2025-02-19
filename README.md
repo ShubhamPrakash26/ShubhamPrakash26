@@ -66,6 +66,4 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
-🚀 **Always open to collaboration & learning!**  
-
 ---
