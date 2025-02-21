@@ -55,7 +55,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 
 ### 📈 GitHub Stats  
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yshubhamprakash&show_icons=true&theme=radical)  
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamprakash&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprakash26&layout=compact&theme=radical)  
 
 ---
