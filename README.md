@@ -47,15 +47,15 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 
 ### 🔥 Projects  
 
-🚀 **[BudgetMentor](https://github.com/your-github/BudgetMentor)** – AI-powered financial advisor using **MERN Stack + Google Gemini**  
-📱 **[Pixel Remover](https://github.com/your-github/Pixel-Remover)** – Web app for de-pixelating images using **Flask & TensorFlow**  
-📝 **[Quiz Master App](https://github.com/your-github/Quiz-App)** – Interactive quiz platform with **React & Node.js**  
+🚀 **[BudgetMentor](https://github.com/prakashshubham26/BudgetMentor)** – AI-powered financial advisor using **MERN Stack + Google Gemini**  
+📱 **[Pixel Remover](https://github.com/anuragprasoon/pixelated-image-detection-system)** – Web app for de-pixelating images using **Flask & TensorFlow**  
+📝 **[Quiz Master App](https://github.com/ShubhamPrakash26/Quiz_Master_App)** – Interactive quiz platform with **React & Node.js**  
 
 ---
 
 ### 📈 GitHub Stats  
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamprakash&show_icons=true&theme=radical)  
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamprakash26&show_icons=true&theme=dracula) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprakash26&layout=compact&theme=radical)  
 
 ---
