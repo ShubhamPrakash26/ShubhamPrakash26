@@ -3,8 +3,7 @@ Here's a professional and engaging GitHub profile README for you:
 ---
 
 ### 🚀 Shubham Prakash | Software Developer  
-
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)  
+ 
 
 💻 **Software Developer | MERN Stack | AI Enthusiast**  
 🎯 **Aspiring SDE | Problem Solver | Financial Tech Innovator**  
