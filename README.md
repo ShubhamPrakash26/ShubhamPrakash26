@@ -2,7 +2,7 @@ Here's a professional and engaging GitHub profile README for you:
 
 ---
 
-### 🚀 Shubham Prakash | Software Developer  
+###  Shubham Prakash | Software Developer  
  
 
 💻 **Software Developer | MERN Stack | AI Enthusiast**  
