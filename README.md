@@ -6,7 +6,7 @@ Here's a professional and engaging GitHub profile README for you:
  
 
 💻 **Software Developer | MERN Stack | AI Enthusiast**  
-🎯 **Aspiring SDE | Problem Solver | Financial Tech Innovator**  
+🎯 **Aspiring SDE | Problem Solver r**  
 
 ---
 
