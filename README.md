@@ -3,7 +3,7 @@
 ###  Shubham Prakash | Software Developer  
  
 
-💻 **Software Developer | MERN Stack | AI Enthusiast**  
+💻 **Software Developer | MERN Stack**  
 🎯 **Aspiring SDE | Problem Solver**  
 
 ---
@@ -57,7 +57,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamprakash26/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shubhamprakash26)  
