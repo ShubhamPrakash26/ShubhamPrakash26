@@ -16,7 +16,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 🔹 **Foundation Level Certified | IIT Madras BS Data Science**  
 🔹 **Intel® Unnati Industrial Training Graduate**  
 
-🚀 I’m always eager to explore new technologies, build impactful projects, and collaborate with like-minded developers.  
+I’m always eager to explore new technologies, build impactful projects, and collaborate with like-minded developers.  
 
 ---
 
@@ -42,7 +42,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 
 ---
 
-### 🔥 Projects  
+### Projects  
 
 🚀 **[BudgetMentor](https://github.com/prakashshubham26/BudgetMentor)** – AI-powered financial advisor using **MERN Stack + Google Gemini**  
 📱 **[Pixel Remover](https://github.com/anuragprasoon/pixelated-image-detection-system)** – Web app for de-pixelating images using **Flask & TensorFlow**  
