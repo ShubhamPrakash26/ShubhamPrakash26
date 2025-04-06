@@ -8,7 +8,7 @@
 
 ---
 
-### 👋 About Me  
+### About Me  
 
 I’m Shubham Prakash, a passionate **Software Developer** with expertise in **MERN stack, Machine Learning, and Android Development**. I love building scalable applications, solving challenging problems, and contributing to open-source projects. Currently, I’m developing **BudgetMentor**, an AI-powered financial advisor that helps users manage their budgets efficiently.  
 
@@ -34,7 +34,8 @@ I’m always eager to explore new technologies, build impactful projects, and co
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 
 **Version Control & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
