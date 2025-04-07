@@ -15,6 +15,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 🔹 **B.Tech | KIIT Bhubaneswar**  
 🔹 **Foundation Level Certified | IIT Madras BS Data Science**  
 🔹 **Intel® Unnati Industrial Training Graduate**  
+🔹 **Google Android Development using Kotlin**  
 
 I’m always eager to explore new technologies, build impactful projects, and collaborate with like-minded developers.  
 
