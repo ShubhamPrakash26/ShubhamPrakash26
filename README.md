@@ -37,6 +37,7 @@ I’m always eager to explore new technologies, build impactful projects, and co
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 
 **Version Control & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
