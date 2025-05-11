@@ -21,7 +21,7 @@ I’m always eager to explore new technologies, build impactful projects, and co
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
@@ -53,14 +53,14 @@ I’m always eager to explore new technologies, build impactful projects, and co
 
 ---
 
-### 📈 GitHub Stats  
+### GitHub Stats  
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamprakash26&show_icons=true&theme=dracula) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprakash26&layout=compact&theme=radical)  
 
 ---
 
-### 📫 Let's Connect 
+###  Let's Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamprakash26/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ShubhamPra96014) 
