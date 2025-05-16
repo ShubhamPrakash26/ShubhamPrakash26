@@ -49,7 +49,7 @@ I’m always eager to explore new technologies, build impactful projects, and co
 
 🚀 **[BudgetMentor](https://github.com/prakashshubham26/BudgetMentor)** – AI-powered financial advisor using **MERN Stack + Google Gemini**  
 📱 **[Pixel Remover](https://github.com/anuragprasoon/pixelated-image-detection-system)** – Web app for de-pixelating images using **Flask & TensorFlow**  
-📝 **[Quiz Master App](https://github.com/ShubhamPrakash26/Quiz_Master_App)** – Interactive quiz platform with **React & Node.js**  
+📝 **[Quiz Master App](https://github.com/ShubhamPrakash26/Quiz_Master_App)** – Interactive quiz platform with **Flask, Chart.js, SQLAlchemy**  
 
 ---
 
