@@ -17,7 +17,7 @@ I’m Shubham Prakash, a passionate **Software Developer** with expertise in **M
 🔹 **Intel® Unnati Industrial Training Graduate**  
 🔹 **Google Android Development using Kotlin**  
 
-I’m always eager to explore new technologies, build impactful projects, and collaborate with like-minded developers.  
+I’m always eager to explore new technologies, built impactful projects, and collaborate with like-minded developers.  
 
 ---
 
