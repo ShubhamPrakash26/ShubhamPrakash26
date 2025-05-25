@@ -10,7 +10,7 @@
 
 ### About Me  
 
-I’m Shubham Prakash, a passionate **Software Developer** with expertise in **MERN stack, Machine Learning, and Android Development using Kotlin**. I love building scalable applications, solving challenging problems, and contributing to open-source projects. Currently, I’m developing **BudgetMentor**, an AI-powered financial advisor that helps users manage their budgets more efficiently.  
+I’m Shubham Prakash, a passionate **Software Developer** with expertise in **MERN stack, Machine Learning, and Android Development using Kotlin**. I love building scalable applications, solving challenging problems, and contributing to open-source projects. Currently, I’m developing **BudgetMentor**, an AI-powered financial budgeting advisor that helps users manage their budgets more efficiently.  
 
 🔹 **B.Tech | KIIT Bhubaneswar**  
 🔹 **Foundation Level Certified | IIT Madras BS Data Science**  
