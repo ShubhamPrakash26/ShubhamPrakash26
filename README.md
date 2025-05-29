@@ -1,6 +1,6 @@
 ---
 
-###  Shubham Prakash | Software Developer  
+###  Shubham Prakash | Software Developer  | Data Science Student 
  
 
 💻 **Software Developer | MERN Stack**  
