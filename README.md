@@ -4,7 +4,7 @@
  
 
 💻 **Software Developer | MERN Stack**  
-🎯 **Aspiring SDE | Problem Solver**  
+🎯 **Aspiring SDE | Problem Solver | Data Science Enthusisast**  
 
 ---
 
